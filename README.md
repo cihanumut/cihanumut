@@ -1,7 +1,8 @@
 <h1 align="center"> Hi,I'm Cihan👋 </h1>
 <p align="center">
 <i>Hi, I'm Cihan Umut Çolak — a Computer Engineering student at Süleyman Demirel University🎓. I'm constantly learning and building to improve my skills in modern software development.My passion for technology and my desire for continuous learning constantly motivate me to improve in software development.</i></p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4435909" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/realcuc.png" alt="Your Image Badge" />
+
 
 ---
 
