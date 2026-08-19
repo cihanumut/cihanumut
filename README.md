@@ -7,7 +7,7 @@
 
 ### 💻 About Me
 
-🎓 I am a 3rd-year Computer Engineering student at Süleyman Demirel University.
+🎓 I am a 4th-year Computer Engineering student at Süleyman Demirel University.
 
 🚀 I have participated in TÜBİTAK and Teknofest projects.
 
