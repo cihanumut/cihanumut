@@ -31,8 +31,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cihanumut&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cihanumut&layout=compact&theme=radical" height="160"/>
+  <img src="https://raw.githubusercontent.com/cihanumut/cihanumut/main/profile-summary-card-output/radical/0-profile-details.svg" height="160"/>
+  <img src="https://raw.githubusercontent.com/cihanumut/cihanumut/main/profile-summary-card-output/radical/1-repo-languages.svg" height="160"/>
 </p>
 
 ---
